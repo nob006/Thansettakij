@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "720497409919",
+    "firebase_url": "https://than-event.firebaseio.com",
+    "project_id": "than-event",
+    "storage_bucket": "than-event.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720497409919:android:d4c011ed993d1dd5",
+        "android_client_info": {
+          "package_name": "com.greennet1282.Thansettakij"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720497409919-ope7bb2aungstntckopevjork7lq9t5o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaisIF1aW8_vNcOkrWWTF4IExWKWs2U20"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720497409919:android:3f3723ffd92f0dce",
+        "android_client_info": {
+          "package_name": "com.gpk.thansettakij"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720497409919-ope7bb2aungstntckopevjork7lq9t5o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaisIF1aW8_vNcOkrWWTF4IExWKWs2U20"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

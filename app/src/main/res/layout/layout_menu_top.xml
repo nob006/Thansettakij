@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <LinearLayout
+        android:id="@+id/layoutMenu"
+        android:background="@android:color/black"
+        android:padding="10dp"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RadioGroup
+            android:id="@+id/radioGroup"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <RadioButton
+                android:id="@+id/rg_news"
+                android:checked="true"
+                style="@style/CheckBoxStyle"
+                android:text="@string/text_news"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <RadioButton
+                android:id="@+id/rg_product"
+                style="@style/CheckBoxStyle"
+                android:text="@string/text_product"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <RadioButton
+                android:id="@+id/rg_booth"
+                style="@style/CheckBoxStyle"
+                android:text="@string/text_booth"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <RadioButton
+                android:id="@+id/rg_team"
+                style="@style/CheckBoxStyle"
+                android:text="@string/text_team"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <RadioButton
+                android:id="@+id/rg_about"
+                style="@style/CheckBoxStyle"
+                android:text="@string/text_about"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+        </RadioGroup>
+
+
+
+
+    </LinearLayout>
+
+</layout>

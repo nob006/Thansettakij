@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Thansettakij</string>
+
+    <!-- Login -->
+    <string name="login_facebook">ลงทะเบียนด้วย Facebook</string>
+
+    <!-- Scan QR Code -->
+    <string name="scan_qr_title">Scan QR Code</string>
+
+    <string name="text_news">ข่าวสารภายในงาน</string>
+    <string name="text_product">ผลิตภัณฑ์ภายในงาน</string>
+    <string name="text_booth">บริษัทที่เข้าร่วม Booth</string>
+    <string name="text_team">ผู้เข้าร่วมประกวดผลงาน</string>
+    <string name="text_about">เกี่ยวกับ IoT</string>
+
+    <!-- Register -->
+    <string name="text_register_title">ข้อมูลผู้เข้าร่วมงาน</string>
+    <string name="text_register_name">ชื่อ - นามสกุล</string>
+    <string name="text_register_email">อีเมล</string>
+    <string name="text_register_tel">เบอร์โทรศัพท์</string>
+    <string name="text_register_sex">เพศ</string>
+    <string name="text_register_education">วุฒิการศึกษา</string>
+    <string name="text_register_company">บริษัท / หน่วยงาน / สังกัด / สถานศึกษา</string>
+    <string name="text_register_income">รายได้</string>
+
+    <string name="text_register_menu">ลงทะเบียน</string>
+    <string name="text_register_confirm">ยืนยัน</string>
+    <string name="text_register_success">ลงทะเบียนสำเร็จ</string>
+    <string name="text_check_in_success">Check in สำเร็จ</string>
+    
+</resources>
